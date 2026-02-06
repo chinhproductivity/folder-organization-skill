@@ -43,9 +43,24 @@ Tôi muốn bạn giúp tôi hệ thống hóa lại folder của mình.
 
 ## 📋 Nội Dung Skill
 
-| File | Mô tả |
-|------|-------|
+| File/Folder | Mô tả |
+|-------------|-------|
 | `SKILL.md` | Hướng dẫn chi tiết cho AI agent |
+| `workflows/` | Các workflow từng bước |
+
+---
+
+## 🔄 Workflows Có Sẵn
+
+| # | Workflow | Khi nào dùng |
+|---|----------|--------------|
+| 1 | **First-Time Setup** | Folder lộn xộn, cần tổ chức từ đầu |
+| 2 | **Periodic Cleanup** | Folder đã tổ chức, cần dọn định kỳ |
+| 3 | **Archive Old Files** | Lưu trữ file cũ, giảm lộn xộn |
+| 4 | **Sync Structure** | Áp dụng cấu trúc chuẩn cho nhiều folder |
+| 5 | **New Project Setup** | Tạo folder mới cho dự án với cấu trúc sẵn |
+
+👉 Chi tiết: Xem folder `/workflows`
 
 ### Các Sections Trong SKILL.md
 
