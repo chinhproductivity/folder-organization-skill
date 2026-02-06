@@ -75,5 +75,9 @@ Mọi đóng góp đều được hoan nghênh! Vui lòng tạo Issue hoặc Pul
 
 ---
 
-**Tác giả:** Chinh Nguyen  
+**Tác giả:** Tuyết Chinh  
+**Facebook:** [Tuyết Chinh](https://www.facebook.com/chinhproductivity)  
+**Website:** [tuyetchinh.com](https://tuyetchinh.com)  
+**Buy me a coffee:** MB Bank `0983095803`  
+
 **Ngày tạo:** 2026-02-06
