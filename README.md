@@ -13,6 +13,7 @@ Bộ skill hướng dẫn AI hệ thống hóa và tổ chức lại cấu trúc
 ## 🚀 Cách Sử Dụng
 
 ### 1. Copy folder vào dự án của bạn
+
 ```bash
 # Clone repo
 git clone https://github.com/YOUR_USERNAME/folder-organization-skill.git
@@ -22,6 +23,7 @@ cp -r folder-organization-skill/folder-organization /path/to/your/project/.agent
 ```
 
 ### 2. Gọi skill bằng prompt
+
 ```
 Tôi muốn bạn giúp tôi hệ thống hóa lại folder của mình.
 
@@ -59,6 +61,7 @@ Tôi muốn bạn giúp tôi hệ thống hóa lại folder của mình.
 | 3 | **Archive Old Files** | Lưu trữ file cũ, giảm lộn xộn |
 | 4 | **Sync Structure** | Áp dụng cấu trúc chuẩn cho nhiều folder |
 | 5 | **New Project Setup** | Tạo folder mới cho dự án với cấu trúc sẵn |
+| 7 | **Antigravity Integration** | Đưa Agent/Skill mới vào hệ thống Antigravity đúng chuẩn |
 
 👉 Chi tiết: Xem folder `/workflows`
 
@@ -76,6 +79,7 @@ Tôi muốn bạn giúp tôi hệ thống hóa lại folder của mình.
 ## 🏢 Ví Dụ Thực Tế
 
 Skill này được phát triển dựa trên case study tổ chức folder **Lắp Đặt 247**:
+
 - Input: 58 items lộn xộn
 - Output: 6 khối phòng ban có cấu trúc rõ ràng
 - Kết quả: ~900 files được tổ chức lại mà không mất file nào
